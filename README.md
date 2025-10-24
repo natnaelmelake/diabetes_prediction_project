@@ -37,8 +37,8 @@ data was cleaned, standardized, and used strictly for educational purposes.
 
 
 # Authors
-Natnael Melake 
-Susan Mbazazi
+Natnael Melake, 
+Susan Mbazazi,
 Zahara Alinalika
 
 
